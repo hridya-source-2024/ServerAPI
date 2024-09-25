@@ -1,0 +1,10 @@
+# Ignore build directories
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
